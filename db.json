@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "octavia",
+      "empresa": "cdm",
+      "email": "elena_antuares@hotmail.com",
+      "telefono": "685476543548",
+      "notas": "terricola",
+      "id": 4
+    },
+    {
+      "nombre": "jasper",
+      "empresa": "guardisn",
+      "email": "virginiaina0@gmail.com",
+      "telefono": "685476543548",
+      "notas": "franco tirador",
+      "id": 5
+    },
+    {
+      "nombre": "Blene",
+      "empresa": "cleila",
+      "email": "virginiaina0@gmail.com",
+      "telefono": "685476543548",
+      "notas": "",
+      "id": 6
+    },
+    {
+      "nombre": "Virginia lider",
+      "empresa": "Primera",
+      "email": "virginiaina0@gmail.com",
+      "telefono": "685476543548",
+      "notas": "Lider de batalla",
+      "id": 8
+    },
+    {
+      "nombre": "Bellamy",
+      "empresa": "cdm",
+      "email": "virginiaina0@gmail.com",
+      "telefono": "685476543548",
+      "notas": "Lider de batalla",
+      "id": 10
+    }
+  ]
+}
